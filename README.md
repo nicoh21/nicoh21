@@ -1,8 +1,7 @@
-# Hi👋, I´m Nicolas 
+# Hi👋, I´m Nicolas
 ### A Full Stack Development student from Argentina to the 🌎
 
 - 🔭 My last proyect was 
-
 <!--
 **nicoh21/nicoh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
