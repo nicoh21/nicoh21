@@ -1,5 +1,5 @@
-         # Hi👋, I´m Nicolas
-## A Full Stack Development student from Argentina to the 🌎
+# Hi👋, I´m Nicolas 
+### A Full Stack Development student from Argentina to the 🌎
 
 - 🔭 My last proyect was 
 
