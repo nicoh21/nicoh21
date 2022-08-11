@@ -1,7 +1,7 @@
 # Hi👋, I´m Nicolas Hernandez.
 ## A Full Stack Development student from Argentina to the 🌎
 
-- 🔭 My last proyect was 
+- 🔭 My last proyect was nicoh21/TRAINING-CENTER
 
 <!--
 **nicoh21/nicoh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
