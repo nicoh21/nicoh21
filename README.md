@@ -1,4 +1,4 @@
-# Hi👋, I´m Nicolas Hernandez.
+# Hi👋, I´m Nicolas
 ## A Full Stack Development student from Argentina to the 🌎
 
 - 🔭 My last proyect was /TRAINING-CENTER
